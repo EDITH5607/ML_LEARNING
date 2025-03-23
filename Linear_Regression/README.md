@@ -13,10 +13,4 @@ Currently, it includes **Simple Linear Regression**, and more models will be add
 - ** Height = m * Weight + b**
 along with a **scatter plot** showing the regression line.
 
-## 📂 Folder Structure  
-project_root/
-│── linear_regression/                # Main folder for linear regression models 
-│   ├── simple_linear_regression.ipynb  # Jupyter Notebook for Simple Linear Regression 
-│   ├── data.csv                        # Dataset (Weight, Height) 
-│   ├── README.md 
-
+----
